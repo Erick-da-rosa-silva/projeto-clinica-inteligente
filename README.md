@@ -15,7 +15,7 @@ Este é o projeto principal da disciplina de Desenvolvimento de Sistemas. Uma ap
 - **APIs Externas:** ViaCEP (Endereços) e OpenWeatherMap (Clima de Niterói)
 
 ##  Como o Professor pode testar:
-1. Clone o repositório.
+1.repositório
 2. No terminal da pasta `backend`, rode `npm install` e `node server.js`.
 3. No terminal da pasta `frontedn`, rode `npm install` e `npm run dev`.
 
