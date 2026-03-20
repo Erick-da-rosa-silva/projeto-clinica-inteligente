@@ -7,7 +7,7 @@ Este é o projeto principal da disciplina de Desenvolvimento de Sistemas. Uma ap
 * **[Acesse o Backend aqui](./backend)**: API desenvolvida em Node.js e Express com integração ao MongoDB.
 * **[Acesse o Frontend aqui](./frontedn)**: Interface moderna em Vue.js 3 utilizando Vite.
 
-##  Tecnologias Utilizadas
+##  Tec Utilizadas
 - **Linguagem:** JavaScript (Node.js)
 - **Framework Web:** Express
 - **Banco de Dados:** MongoDB (NoSQL)
