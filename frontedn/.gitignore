@@ -1,0 +1,23 @@
+# Dependências (O mais importante)
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Configurações e Senhas
+.env
+*.local
+
+# Pastas de Compilação
+dist/
+dist-ssr/
+build/
+
+# IDEs e Logs
+.vscode/
+.idea/
+*.log
+npm-debug.log*
+
+# Sistema
+.DS_Store
+Thumbs.db
